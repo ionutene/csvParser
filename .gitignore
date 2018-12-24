@@ -1,0 +1,24 @@
+## File-based project format:
+
+*.iml
+
+*.log
+
+*.7z
+
+*.zip
+
+*.properties
+
+*.iml
+
+*.xml
+
+*.something
+
+# IntelliJ
+
+/target/
+
+/.idea/
+
